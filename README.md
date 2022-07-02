@@ -3,10 +3,11 @@
 - 🔭 Sou estudante da ETEC, atualmente no 2º ano cursando Desenvolvimento de Sistemas
 - 🌱 Estou aprendendo JavaScript e ReactNative
 
+##
 <div align="left">
   <a href="https://github.com/karengoncalves8">
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=karengoncalves8&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karengoncalves8&layout=compact&langs_count=7&theme=aura"/>
+  <img height="180em" width="480em" src="https://github-readme-stats.vercel.app/api?username=karengoncalves8&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karengoncalves8&layout=compact&langs_count=7&theme=aura"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
