@@ -4,7 +4,7 @@
 - 🌱 Estou aprendendo JavaScript e ReactNative
 
 ##
-<div style="display: inline_block" align="left">
+<div style="display: flex; flex-direction: row; wrap: no-wrap;" align="left">
   <a href="https://github.com/karengoncalves8">
   <img height="180em" width="480em" src="https://github-readme-stats.vercel.app/api?username=karengoncalves8&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="180em" width="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karengoncalves8&layout=compact&langs_count=7&theme=aura"/>
