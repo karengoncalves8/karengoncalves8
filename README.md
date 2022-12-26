@@ -1,7 +1,8 @@
-### Olá, eu sou a Karen 👋
+### Hi, I'm Karen 👋
 
-- 🔭 Sou estudante da ETEC, atualmente no 2º ano cursando Desenvolvimento de Sistemas
-- 🌱 Estou aprendendo JavaScript e ReactNative
+- :books: Currently on the last year of High School along with a Technical Course in Software Development
+- :memo: Learning JavaScript and PHP 
+- :zap: Always looking for new opportunities to improve my skills 
 
 ##
 <div style="display: flex; flex-direction:row; justify-content:flex-start; align-itens:center;">
