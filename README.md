@@ -1,7 +1,7 @@
 ### Hi, I'm Karen 👋
 
 - :books: Currently on the last year of High School along with a Technical Course in Software Development
-- :memo: Learning JavaScript and PHP 
+- :memo: Learning JavaScript, PHP and React Native
 - :zap: Always looking for new opportunities to improve my skills 
 
 ##
