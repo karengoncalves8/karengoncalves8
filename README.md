@@ -2,7 +2,7 @@
 
 - :books: Currently in college studying multiplatform software development
 - :memo: Learning JavaScript, PHP and React Native
-- :zap: Always looking for new opportunities to improve my skills 
+- :zap: Always looking for new opportunities to improve my skills
 
 ##
 <div style="display: flex; flex-direction:row; justify-content:flex-start; align-itens:center;">
@@ -24,4 +24,5 @@
 <div> 
   <a href="https://www.instagram.com/karen__cgoncalves/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/karen-gon%C3%A7alves-462ab3212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://portfolio-karen-goncalves-projects.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=24114d" target="_blank"></a> 
 </div>
